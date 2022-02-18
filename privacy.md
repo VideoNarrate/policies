@@ -1,6 +1,6 @@
 # Privacy and cookie policy
 
-*Last updated: 1 February 2022*
+*Last updated: 18 February 2022*
 
 The privacy of your data — and it is your data, not ours! — is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights to your data. We promise we never sell your data.
 
@@ -66,11 +66,11 @@ We use third party subprocessors, such as cloud computing providers, to run the 
 
 The following is a list of personal data subprocessors we use.
 
+* [Amazon Web Services](https://aws.amazon.com/compliance/data-privacy/). Amazon Web Services EMEA SARL is based in Luxembourg (EU) but is a subsidiary of Amazon.com, Inc., a US company. We use their “Europe (Ireland)” datacenters to store and process your videos and other content.
 * [Cloudflare](https://www.cloudflare.com/en-gb/gdpr/introduction/). Cloudflare is a US company with a global content distribution network. We do not explicitly store any personal data on Cloudflare, however all web traffic transits via their servers since we use it as a reverse proxy. They also provide us with aggregate-level web analytics.
-* [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/). Google is a US company, however we only use their “europe-west2 (London)” datacenter in the UK. We use it to store and process videos and speech.
-* [Mailjet](https://www.mailjet.com/security-privacy/), a French company with EU datacenters. We use it to send emails.
-* [Hetzner](https://www.hetzner.com/legal/privacy-policy). Hetzner is an EU (German) company. We use their EU datacenters (Germany and Finland) for various cloud computing tasks.
-* [Supabase](https://supabase.com/docs/company/privacy). Supabase is a US company, however we only store data in their “West EU (London)” datacenter in the U.K. We use it for authentication and as a general-purpose database.
+* [Google Cloud Platform](https://cloud.google.com/security/gdpr/resource-center/). Google Cloud EMEA Limited is based in Ireland (EU), but part of a US group. We use it to synthesize speech from your narration text.
+* [Mailjet](https://www.mailjet.com/security-privacy/), a French company with EU datacenters. We use it to send emails to you.
+* [Supabase](https://supabase.com/docs/company/privacy). Supabase is a US company, however we only store data in their “West EU (Ireland)” datacenters. We use it for authentication and as a general-purpose database.
 
 ## Your rights with respect to your information
 
